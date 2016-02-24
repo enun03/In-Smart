@@ -1,22 +1,4 @@
-﻿
-			// The root page of your application
-			MainPage = new ContentPage {
-				Content = new StackLayout {
-	
-
-		protected override void OnStart ()
-		{
-			// Handle when your app starts
-		}
-
-		protected override void OnSleep ()
-		{
-			// Handle when your app sleeps
-		}
-
-		protected override void OnResume ()
-		{
-			// Handle when your app resumes
+﻿n yole when your app resumes
 		}
 	}
 }
