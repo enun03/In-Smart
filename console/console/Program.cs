@@ -13,6 +13,7 @@ namespace console
             Console.WriteLine("hello world");
             Console.WriteLine("learning how to use git");
             //ctrl+f5 to run.
+            //do not have a system pause.
         }
     }
 }
