@@ -9,7 +9,7 @@ using System.Threading;
 
 namespace login_system
 {
-    [Activity(Label = "login_system",MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "login_system", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity{
 
         private ProgressBar mProgressBar;
