@@ -1,0 +1,17 @@
+C:\Users\dark\Desktop\GITh\login-system\login-system\bin\Debug\login-system.dll
+C:\Users\dark\Desktop\GITh\login-system\login-system\bin\Debug\login-system.pdb
+C:\Users\dark\Desktop\GITh\login-system\login-system\bin\Debug\login_system.login_system.apk
+C:\Users\dark\Desktop\GITh\login-system\login-system\bin\Debug\login_system.login_system-Signed.apk
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\login-system.dll
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\login-system.pdb
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\android\bin\login_system.login_system.apk
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\res\layout\main.xml
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\res\values\strings.xml
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\res\drawable\icon.png
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\R.cs.flag
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\uploadflags.txt
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\dark\Desktop\GITh\login-system\login-system\obj\Debug\login-system.dll.mdb
+C:\Users\dark\Desktop\GITh\login-system\login-system\bin\Debug\login-system.dll.mdb
