@@ -6,3 +6,7 @@ login_system.MainActivity, login-system;md533dfd789689a191ec5decf780a91dd36.Main
 login_system.MainActivity, login-system, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533dfd789689a191ec5decf780a91dd36.MainActivity
 login_system.MainActivity;md533dfd789689a191ec5decf780a91dd36.MainActivity
 login_system.MainActivity;md533dfd789689a191ec5decf780a91dd36.MainActivity
+login_system.menuActivity, login-system;md533dfd789689a191ec5decf780a91dd36.menuActivity
+login_system.menuActivity, login-system, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533dfd789689a191ec5decf780a91dd36.menuActivity
+login_system.menuActivity;md533dfd789689a191ec5decf780a91dd36.menuActivity
+login_system.menuActivity;md533dfd789689a191ec5decf780a91dd36.menuActivity
