@@ -49,5 +49,6 @@ C:\Users\dark\Desktop\In-Smart\login-system\login-system\obj\Debug\uploadflags.t
 C:\Users\dark\Desktop\In-Smart\login-system\login-system\obj\Debug\login-system.dll.mdb
 C:\Users\dark\Desktop\In-Smart\login-system\login-system\bin\Debug\login-system.dll.mdb
 C:\Users\dark\Desktop\GITh\In-Smart\login-system\login-system\obj\Debug\res\layout\menu.xml
+C:\Users\dark\Desktop\GITh\In-Smart\login-system\login-system\obj\Debug\login-system.csprojResolveAssemblyReference.cache
 C:\Users\dark\Desktop\GITh\In-Smart\login-system\login-system\obj\Debug\login-system.dll.mdb
 C:\Users\dark\Desktop\GITh\In-Smart\login-system\login-system\bin\Debug\login-system.dll.mdb

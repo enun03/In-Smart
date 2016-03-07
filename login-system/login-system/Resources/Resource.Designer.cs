@@ -66,6 +66,18 @@ namespace login_system
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050009
+			public const int ButtonMenu1 = 2131034121;
+			
+			// aapt resource value: 0x7f05000a
+			public const int ButtonMenu2 = 2131034122;
+			
+			// aapt resource value: 0x7f05000b
+			public const int ButtonMenu3 = 2131034123;
+			
+			// aapt resource value: 0x7f05000c
+			public const int ButtonMenu4 = 2131034124;
+			
 			// aapt resource value: 0x7f050003
 			public const int btnDialogEmail = 2131034115;
 			
@@ -107,13 +119,16 @@ namespace login_system
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int dialog_sign_up = 2130903040;
+			public const int Bulletin = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int log = 2130903041;
+			public const int dialog_sign_up = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Menu = 2130903042;
+			public const int log = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int Menu = 2130903043;
 			
 			static Layout()
 			{

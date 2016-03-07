@@ -1,3 +1,7 @@
+login_system.BulletinActivity, login-system;md533dfd789689a191ec5decf780a91dd36.BulletinActivity
+login_system.BulletinActivity, login-system, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533dfd789689a191ec5decf780a91dd36.BulletinActivity
+login_system.BulletinActivity;md533dfd789689a191ec5decf780a91dd36.BulletinActivity
+login_system.BulletinActivity;md533dfd789689a191ec5decf780a91dd36.BulletinActivity
 login_system.dialog_SignUp, login-system;md533dfd789689a191ec5decf780a91dd36.dialog_SignUp
 login_system.dialog_SignUp, login-system, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533dfd789689a191ec5decf780a91dd36.dialog_SignUp
 login_system.dialog_SignUp;md533dfd789689a191ec5decf780a91dd36.dialog_SignUp

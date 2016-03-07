@@ -16,9 +16,13 @@ public final class R {
         public static final int icon=0x7f020002;
     }
     public static final class id {
+        public static final int Mbtn=0x7f050009;
         public static final int btnDialogEmail=0x7f050003;
         public static final int btnsignin=0x7f050005;
         public static final int btnsignup=0x7f050007;
+        public static final int button2=0x7f05000a;
+        public static final int button3=0x7f05000b;
+        public static final int button4=0x7f05000c;
         public static final int progressBar1=0x7f050008;
         public static final int txtEmail=0x7f050001;
         public static final int txtFirstName=0x7f050000;

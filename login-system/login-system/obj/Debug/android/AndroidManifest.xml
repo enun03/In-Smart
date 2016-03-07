@@ -4,7 +4,8 @@
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="login_system" android:name="mono.android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <application android:label="login_system" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="Bulletin" android:name="md533dfd789689a191ec5decf780a91dd36.BulletinActivity" />
     <activity android:icon="@drawable/icon" android:label="login_system" android:name="md533dfd789689a191ec5decf780a91dd36.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
