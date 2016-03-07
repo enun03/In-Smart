@@ -8,7 +8,7 @@ using Android.OS;
 using System.Threading;
 
 namespace login_system
-{
+{//esto es sin cafe
     [Activity(Label = "login_system", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity{
         //here you set the variables up by name and purpose.
@@ -30,10 +30,6 @@ namespace login_system
             mBtnSignUp.Click += (object sender, EventArgs args) =>
          
 
-     
- 
-            
-
             {
 
                 //pull up dialog
@@ -42,7 +38,7 @@ namespace login_system
                 signUpDialog.Show(transaction, "dialog fragment");
 
                 signUpDialog.mOnSignUpComplete += SignUpDialog_mOnSignUpComplete;
-
+                //lo que se conoce como el pop-up
             };
 
 
@@ -65,10 +61,10 @@ namespace login_system
            
         }
         private void ActLikeARequest()
-        {
+        {// this is used for the progress bar. 3000= 3 seconds
             Thread.Sleep(3000);
             RunOnUiThread(() => { mProgressBar.Visibility = ViewStates.Invisible; });
-
+            // de derecha a izquierda (el progress bar esta invisible una vez que se cumple la action se vuelve visible por 3 segundos)
         }
         
     }

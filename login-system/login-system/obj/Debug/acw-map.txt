@@ -2,6 +2,10 @@ login_system.BulletinActivity, login-system;md533dfd789689a191ec5decf780a91dd36.
 login_system.BulletinActivity, login-system, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533dfd789689a191ec5decf780a91dd36.BulletinActivity
 login_system.BulletinActivity;md533dfd789689a191ec5decf780a91dd36.BulletinActivity
 login_system.BulletinActivity;md533dfd789689a191ec5decf780a91dd36.BulletinActivity
+login_system.ChatActivity, login-system;md533dfd789689a191ec5decf780a91dd36.ChatActivity
+login_system.ChatActivity, login-system, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533dfd789689a191ec5decf780a91dd36.ChatActivity
+login_system.ChatActivity;md533dfd789689a191ec5decf780a91dd36.ChatActivity
+login_system.ChatActivity;md533dfd789689a191ec5decf780a91dd36.ChatActivity
 login_system.dialog_SignUp, login-system;md533dfd789689a191ec5decf780a91dd36.dialog_SignUp
 login_system.dialog_SignUp, login-system, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533dfd789689a191ec5decf780a91dd36.dialog_SignUp
 login_system.dialog_SignUp;md533dfd789689a191ec5decf780a91dd36.dialog_SignUp
@@ -14,3 +18,7 @@ login_system.menuActivity, login-system;md533dfd789689a191ec5decf780a91dd36.menu
 login_system.menuActivity, login-system, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533dfd789689a191ec5decf780a91dd36.menuActivity
 login_system.menuActivity;md533dfd789689a191ec5decf780a91dd36.menuActivity
 login_system.menuActivity;md533dfd789689a191ec5decf780a91dd36.menuActivity
+login_system.SchedulerActivity, login-system;md533dfd789689a191ec5decf780a91dd36.SchedulerActivity
+login_system.SchedulerActivity, login-system, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533dfd789689a191ec5decf780a91dd36.SchedulerActivity
+login_system.SchedulerActivity;md533dfd789689a191ec5decf780a91dd36.SchedulerActivity
+login_system.SchedulerActivity;md533dfd789689a191ec5decf780a91dd36.SchedulerActivity

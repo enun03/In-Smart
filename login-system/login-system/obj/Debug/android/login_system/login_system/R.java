@@ -32,9 +32,11 @@ public final class R {
     }
     public static final class layout {
         public static final int bulletin=0x7f030000;
-        public static final int dialog_sign_up=0x7f030001;
-        public static final int log=0x7f030002;
-        public static final int menu=0x7f030003;
+        public static final int chat=0x7f030001;
+        public static final int dialog_sign_up=0x7f030002;
+        public static final int log=0x7f030003;
+        public static final int menu=0x7f030004;
+        public static final int scheduler=0x7f030005;
     }
     public static final class string {
         public static final int ApplicationName=0x7f040001;
