@@ -25,7 +25,8 @@
         android:id="@+id/btnsignin"
         android:layout_weight="15"
         android:layout_marginRight="20dp"
-        android:layout_marginLeft="20dp" />
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/ButtonSignUpStyle" />
     <TextView
         android:text="Or"
         android:textAppearance="?android:attr/textAppearanceMedium"
@@ -42,7 +43,8 @@
         android:id="@+id/btnsignup"
         android:layout_weight="15"
         android:layout_marginRight="20dp"
-        android:layout_marginLeft="20dp" />
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/ButtonSignUpStyle" />
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"

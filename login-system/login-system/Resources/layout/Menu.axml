@@ -8,23 +8,39 @@
     android:minHeight="25px"
     android:minWidth="25px">
     <Button
-        android:text="Button"
+        android:text="Bulletin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/ButtonMenu1" />
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/ButtonMenu1"
+        android:background="@drawable/ButtonSignUpStyle" />
+    <Button
+        android:text="Chat"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/ButtonMenu2"
+        android:background="@drawable/ButtonSignUpStyle" />
+    <Button
+        android:text="Scheduler"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/ButtonMenu3"
+        android:background="@drawable/ButtonSignUpStyle" />
     <Button
         android:text="Button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/ButtonMenu2" />
-    <Button
-        android:text="Button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/ButtonMenu3" />
-    <Button
-        android:text="Button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/ButtonMenu4" />
+        android:id="@+id/ButtonMenu4"
+        android:background="@drawable/ButtonSignUpStyle"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp" />
 </LinearLayout>

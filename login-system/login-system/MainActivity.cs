@@ -38,7 +38,7 @@ namespace login_system
                 signUpDialog.Show(transaction, "dialog fragment");
 
                 signUpDialog.mOnSignUpComplete += SignUpDialog_mOnSignUpComplete;
-                //lo que se conoce como el pop-up
+                //lo que se conoce como el Dialog, Util para warnings o Info adds.
             };
 
 
